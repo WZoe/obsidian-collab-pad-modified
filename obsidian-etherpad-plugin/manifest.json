@@ -1,0 +1,8 @@
+{
+	"id": "obsidian-etherpad-plugin-modified",
+	"name": "Etherpad-modified",
+	"version": "1.0.6",
+	"minAppVersion": "0.12.0",
+	"description": "Etherpad Integration",
+	"isDesktopOnly": false
+}
